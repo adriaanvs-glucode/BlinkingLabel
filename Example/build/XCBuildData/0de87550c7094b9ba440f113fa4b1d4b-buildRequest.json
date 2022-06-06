@@ -1,0 +1,52 @@
+{
+  "_buildCommand2" : {
+    "command" : "prepareForIndexing",
+    "enableIndexBuildArena" : false,
+    "targets" : null
+  },
+  "buildCommand" : "build",
+  "configuredTargets" : [
+    {
+      "guid" : "bfdfe7dc352907fc980b868725387e9872ce7974f4567500acd494f575dde471"
+    },
+    {
+      "guid" : "bfdfe7dc352907fc980b868725387e9830b4adbcef6d648c379e99b599fe7903"
+    },
+    {
+      "guid" : "bfdfe7dc352907fc980b868725387e986ad91e19875b030f3a58e9bd9b4c24bf"
+    }
+  ],
+  "containerPath" : "/Users/adriaan@glucode.com/BlinkingLabel/Example/Pods/Pods.xcodeproj",
+  "continueBuildingAfterErrors" : true,
+  "enableIndexBuildArena" : false,
+  "hideShellScriptEnvironment" : false,
+  "parameters" : {
+    "action" : "build",
+    "arenaInfo" : {
+      "buildIntermediatesPath" : "",
+      "buildProductsPath" : "",
+      "derivedDataPath" : "/Users/adriaan@glucode.com/Library/Developer/Xcode/DerivedData",
+      "indexDataStoreFolderPath" : "/Users/adriaan@glucode.com/Library/Developer/Xcode/DerivedData/Pods-gecyviyqgjnfowbphbfzdbndqcuo/Index/DataStore",
+      "indexEnableDataStore" : true,
+      "indexPCHPath" : "/Users/adriaan@glucode.com/Library/Developer/Xcode/DerivedData/Pods-gecyviyqgjnfowbphbfzdbndqcuo/Index/PrecompiledHeaders",
+      "pchPath" : ""
+    },
+    "configurationName" : "Release",
+    "overrides" : {
+      "synthesized" : {
+        "table" : {
+          "ENABLE_PREVIEWS" : "NO"
+        }
+      }
+    }
+  },
+  "qos" : "default",
+  "schemeCommand" : "launch",
+  "schemeCommand2" : "launch",
+  "shouldCollectMetrics" : false,
+  "showNonLoggedProgress" : true,
+  "useDryRun" : true,
+  "useImplicitDependencies" : false,
+  "useLegacyBuildLocations" : false,
+  "useParallelTargets" : false
+}

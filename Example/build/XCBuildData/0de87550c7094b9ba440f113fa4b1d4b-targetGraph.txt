@@ -1,0 +1,6 @@
+Target dependency graph (3 targets)
+BlinkingLabel in Pods, no dependencies
+Pods-BlinkingLabel_Example in Pods, depends on:
+BlinkingLabel in Pods (explicit)
+Pods-BlinkingLabel_Tests in Pods, depends on:
+Pods-BlinkingLabel_Example in Pods (explicit)
